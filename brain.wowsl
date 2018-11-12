@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>6.1</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>brain</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>false</ImageAspectRatio>
+            <ImageEffect>basic</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>310</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/chess/</ImageTemplate>
+            <ImageTemplateName>Chess</ImageTemplateName>
+            <ImageWidth>430</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>D:/Projects/Brain/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>D:/Projects/Brain</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>0</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>chess</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/My Documents/temp/שיתוק.jpg</url>
+                <title>שיתוק</title>
+                <description>הידעת? 
+בזמן שינה המוח יוצר נתק ומגביל את יכולתו להפעיל את המערכת המוטורית – כדי שלא נבצע את החלומות שלנו בפועל.  </description>
+                <filesize>34175</filesize>
+            </Image>
+            <Image>
+                <url>D:/My Documents/temp/אנרגיה.jpg</url>
+                <title>אנרגיה</title>
+                <description>הידעת? 
+בזמן שאנו ערים מוחנו מייצר אנרגיה בהספק של 23-10 ואט – כמו נורה. </description>
+                <filesize>35502</filesize>
+            </Image>
+            <Image>
+                <url>D:/My Documents/temp/זיכרון.jpg</url>
+                <title>זיכרון</title>
+                <description>הידעת? 
+השינה טובה לא רק לבריאות, אלא גם לזיכרון. </description>
+                <filesize>42834</filesize>
+            </Image>
+            <Image>
+                <url>D:/My Documents/temp/חמצן.jpg</url>
+                <title>חמצן</title>
+                <description>הידעת? 
+המוח מנצל חמישית מתצרוכת החמצן הכוללת של הגוף. </description>
+                <filesize>36583</filesize>
+            </Image>
+            <Image>
+                <url>D:/My Documents/temp/כאב.jpg</url>
+                <title>כאב</title>
+                <description>הידעת? 
+המוח אחראי לייצר את תחושת הכאב בגופנו, אך אינו מרגיש כאב בעצמו. </description>
+                <filesize>49264</filesize>
+            </Image>
+            <Image>
+                <url>D:/My Documents/temp/תאי עצב.jpg</url>
+                <title>תאי עצב</title>
+                <description>הידעת? 
+יש במוחנו 100,000,000,000 (מאה מיליארד!) תאי עצב. </description>
+                <filesize>45139</filesize>
+            </Image>
+            <Image>
+                <url>D:/My Documents/temp/משקל.jpg</url>
+                <title>משקל</title>
+                <description>הידעת? 
+המוח שוקל רק 2% ממשקל הגוף. </description>
+                <filesize>35950</filesize>
+            </Image>
+            <Image>
+                <url>D:/My Documents/temp/מים.jpg</url>
+                <title>מים</title>
+                <description>הידעת? 
+75% מן המוח הם מים. </description>
+                <filesize>59361</filesize>
+            </Image>
+            <Image>
+                <url>D:/My Documents/temp/מצמוץ.jpg</url>
+                <title>מצמוץ</title>
+                <description>הידעת? 
+בכל פעם שאנו ממצמצים המוח &quot;שומר&quot; את התמונה האחרונה שנקלטה בעינינו. </description>
+                <filesize>46365</filesize>
+            </Image>
+            <Image>
+                <url>D:/My Documents/temp/לב.jpg</url>
+                <title>לב</title>
+                <description>הפילוסוף היווני אריסטו, שחי לפני 2300 שנה, סבר שהלב הוא האיבר בגופנו שאחראי על החושים ועל הרגש. </description>
+                <filesize>24937</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

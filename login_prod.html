@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he-IL">
+<head>
+    <title>מדעי המוח</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width"/>
+    <link rel="stylesheet" href="css/layers.min.css"/>
+    <link rel="stylesheet" href="css/responsive.min.css"/>
+    <link rel="stylesheet" href="css/layers.rtl.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+
+</head>
+<body class="login">
+<header class="row-content buffer-top clear-after">
+    <section class="logos row-content buffer-top buffer-left clear-after">
+        <a class="logo-site keep-right" href="index.html"></a>
+        <a class="logo-ort keep-left" href="http://ort.org.il"></a>
+    </section>
+    <section class="site-header row-content column foursixths clear buffer-right content-box">
+        <h1 class="page-title">תכנית לימודים במדעי המוח</h1><!--  | המגמה המדעית-הנדסית  -->
+
+        <h2 class="page-description">
+            תכנית לימודים חדשנית במדעי המוח, המבוססת על לימוד באמצעות אנלוגיות. האנלוגיות הן דרכי חשיבה הנהוגות
+            בתחומי דעת רבים במדע ובהנדסה. השימוש בהן מאפשר הבנה מעמיקה של תופעות, הכללה של פתרונות, והעברת ידע
+            מתחום הדעת של מדעי המוח למדעי ההנדסה ולהיפך.
+        </h2>
+    </section>
+</header>
+
+<section class="row-content buffer content-top">
+    <div id="loginpanel" class="column half center">
+        <form action="http://moodle29.ort.org.il/ort/brainlogin.php"
+              method="post" id="login">
+            <div class="login-header">
+                <h2 id="title" class="login-title">התחברות לאתר מדעי המוח</h2>
+
+                <h3 class="login-description">התחברו לאתר על מנת לצפות בחומרי הלמידה</h3>
+            </div>
+
+            <div class="loginform">
+                <label for="username">שם משתמש:</label>
+                <input type="text" name="username" id="username" size="50" class="input buffer" value=""/>
+                <br/>
+                <label for="password">סיסמה: </label>
+                <input type="password" name="password" id="password" size="50" class="input buffer" value=""/>
+
+            </div>
+
+            <!--<div class="rememberpass">
+                <input type="checkbox" name="rememberusername" id="rememberusername" value="1"/>
+                <label id="rememberlabel" for="rememberusername">זכור שם משתמש וסיסמה</label>
+            </div>-->
+
+            <div class="forgetpass">
+                <input type="submit" id="loginbtn" value="כניסה" class=""/>
+                <br/>
+                <a id="forgotlink"
+                   href="http://moodle29.ort.org.il/ort/forgot_password.php">שכחת את שם המשתמש
+                    או הסיסמא ?</a>
+            </div>
+            <div id="guestpanel" dir="RTL" class="column half center">
+                <h2>התחברות כאורח </h2>
+                <span id="guestremark">(שימו לב, חלק מהפעילויות לא יהיו זמינות בפניכם)</span>
+                <br/>
+                <input id="guestButton" type="button" value="כניסה כאורח"/>
+            </div>
+        </form>
+    </div>
+
+</section>
+
+<footer class="row-content">
+    <section class="credits">
+        האתר פותח ע"י המרכז למו"פ <a href="http://ort.org.il">אורט ישראל </a> |
+        <a class="link" href="about.html">אודות</a> |
+        <a class="link" target="_blank" href="https://docs.google.com/forms/d/1MCkcr7LnIqLGDONzw7kg3q1O7hSqULxYab4Oibm9QCg/viewform">צרו קשר</a>
+    </section>
+</footer>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/script_login.js"></script>
+</body>
+</html>

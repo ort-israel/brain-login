@@ -1,0 +1,14 @@
+.column {
+    float: right;
+}
+
+.column {
+    margin-left: 3.8%;
+    margin-right: 0;
+}
+.column.last, .column.reset{
+    margin-left: 0 !important;
+}
+.plain{
+    padding: 0;
+}
