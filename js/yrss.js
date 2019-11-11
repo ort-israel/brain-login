@@ -31,7 +31,7 @@
         
         // extend options
         options = $.extend(defaults, options);
-        
+    
         // return function
         return this.each(function (i, e) {
             // check for ssl protocol
