@@ -1,0 +1,3 @@
+The links to the course sections are to a special login page created for all our homepages that link to the Campus.  
+For example, this project links to /ort/anonymous_user_login.php (with parameters for courseid and sectionid).  
+That file has the login functionality, and at its end, if the login fails, the user is redirected back to this site (https://mapa-linux-test.ort.org.il/brain_login/ or http://brain.ort.org.il/)
